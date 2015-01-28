@@ -1,0 +1,15 @@
+{
+  "name": "hs-template-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader - Compile template with underscore using kendo symbol (#)",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/horasphere/hs-template-loader.git"
+  },
+  "author": "maxime morin",
+  "homepage": "https://github.com/horasphere/hs-template-loader"
+}
